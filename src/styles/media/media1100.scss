@@ -1,0 +1,25 @@
+@media (min-width: 1024px) {
+	.order--section,
+	.header--content,
+	.main--section-content {
+		padding: 0 20px;
+	}
+
+	.order--section-content_steps {
+		gap: unset;
+	}
+
+	.footer__payments,
+	.footer__contacts {
+		flex-direction: row;
+	}
+
+	.footer__dash {
+		display: flex;
+	}
+
+	.footer__content > p {
+		flex: none;
+		text-align: left;
+	}
+}

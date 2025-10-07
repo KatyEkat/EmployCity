@@ -1,0 +1,25 @@
+@media (min-width: 500px) {
+	.header--links {
+		display: flex;
+		flex-direction: row;
+		gap: 20px;
+	}
+
+	.header--logo > svg {
+		width: 220px;
+	}
+
+	.footer__content > p {
+		flex: 1;
+		text-align: left;
+		white-space: unset;
+	}
+
+	.footer__content {
+		display: flex;
+		justify-content: space-between;
+		align-items: flex-start;
+		flex-direction: row;
+		gap: 20px;
+	}
+}
