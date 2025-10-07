@@ -12,6 +12,13 @@ HTML, SCSS (CSS), JavaScript
 
 ## Project link
 
+https://employ-city.vercel.app/
+
+## Time spent
+
+3,5 hours
+
+
 ## LightHouse analysis
 
 ![EmployCity Preview](./src/img/lighthouseReadme.png)
@@ -32,4 +39,3 @@ Open [http://localhost:5500](http://localhost:5500) to view it in your browser.
     <li>katyfrontend@gmail.com</li>
     <li>Telegram katyEkat</li>
 </ul>
-# pompa_shop
